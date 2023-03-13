@@ -1,4 +1,4 @@
-import ProductsContainer from "./components/ProductsContainer";
+import ProductsContainer from "./pages/ProductsContainer";
 import "./styles.css";
 
 export default function App() {
